@@ -1,0 +1,8 @@
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\bin\Debug\iibank.Application.dll.config
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\bin\Debug\iibank.Application.dll
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\bin\Debug\iibank.Application.pdb
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\bin\Debug\iibank.data.dll
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\bin\Debug\iibank.data.pdb
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\obj\Debug\iibank.Application.csprojResolveAssemblyReference.cache
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\obj\Debug\iibank.Application.dll
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.Application\obj\Debug\iibank.Application.pdb

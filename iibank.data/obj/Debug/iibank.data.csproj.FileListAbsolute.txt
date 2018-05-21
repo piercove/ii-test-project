@@ -1,0 +1,5 @@
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.data\bin\Debug\iibank.data.dll.config
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.data\bin\Debug\iibank.data.dll
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.data\bin\Debug\iibank.data.pdb
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.data\obj\Debug\iibank.data.dll
+E:\Src\Jobs\Indiana Interactive\ii-banking\iibank.data\obj\Debug\iibank.data.pdb
